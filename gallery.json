@@ -1,10 +1,11 @@
-[
+
+    [
     {
       "id": 0,
       "AlbumTitle": "Thesis Dump",
       "PostCaption": "Final Defense Done!",
       "Image": [
-                "thesis.jpg",
+                "thesis/thesis.jpg",
                 "thesis/1.jpeg",
                 "thesis/2.jpeg",
                 "thesis/3.jpeg",
@@ -58,7 +59,9 @@
                 "dict/22.jpg",
                 "dict/23.jpg"
   ]
-    }
+}
     
   
   ]
+
+
