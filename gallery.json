@@ -1,19 +1,5 @@
 
     [
-      {
-       "id":0,
-       "AlbumTitle": "Flex Dump",
-      "PostCaption": "Eh bakit ba",
-      "Image": [
-                "sissy/charme.jpg",
-                "sissy/charme.jpg",
-                "sissy/charme.jpg",
-                "sissy/charme.jpg",
-                "sissy/charme.jpg"
-                
-                
-       ] 
-      },
     {
       "id": 1,
       "AlbumTitle": "Thesis Dump",
@@ -73,7 +59,21 @@
                 "dict/22.jpg",
                 "dict/23.jpg"
   ]
-}
+},
+      {
+       "id":0,
+       "AlbumTitle": "Flex Dump",
+      "PostCaption": "Eh bakit ba",
+      "Image": [
+                "sissy/charme.jpg",
+                "sissy/charme.jpg",
+                "sissy/charme.jpg",
+                "sissy/charme.jpg",
+                "sissy/charme.jpg"
+                
+                
+       ] 
+      },
     
   
   ]
