@@ -1,7 +1,15 @@
 
     [
+      {
+       "id":0,
+       "AlbumTitle": "Flex Dump",
+      "PostCaption": "Eh bakit ba",
+      "Image": [
+                "charme.jpg",
+       ] 
+      },
     {
-      "id": 0,
+      "id": 1,
       "AlbumTitle": "Thesis Dump",
       "PostCaption": "Final Defense Done!",
       "Image": [
@@ -30,7 +38,7 @@
                 ]
     },
     {
-      "id": 1,
+      "id": 2,
       "AlbumTitle": "DICT Dump",
       "PostCaption": "",
       "Image": [
