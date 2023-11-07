@@ -1,0 +1,196 @@
+[
+    {
+        "id": 0,
+        "AlbumTitle": "Thesis Dump",
+        "PostCaption": "Final Defense Done!",
+        "Files": [
+            {
+                "file": "thesis/thesis.jpg",
+                "isVid": false
+            },
+            {
+                "file": "thesis/1.jpeg",
+                "isVid": false
+            },
+            {
+                "file": "thesis/2.jpeg",
+                "isVid": false
+            },
+            {
+                "file": "thesis/3.jpeg",
+                "isVid": false
+            },
+            {
+                "file": "thesis/4.jpeg",
+                "isVid": false
+            },
+            {
+                "file": "thesis/5.jpeg",
+                "isVid": false
+            },
+            {
+                "file": "thesis/6.jpeg",
+                "isVid": false
+            },
+            {
+                "file": "thesis/7.jpeg",
+                "isVid": false
+            },
+            {
+                "file": "thesis/9.jpeg",
+                "isVid": false
+            },
+            {
+                "file": "thesis/10.jpeg",
+                "isVid": false
+            },
+            {
+                "file": "thesis/11.jpeg",
+                "isVid": false
+            },
+            {
+                "file": "thesis/12.jpeg",
+                "isVid": false
+            },
+            {
+                "file": "thesis/13.jpeg",
+                "isVid": false
+            },
+            {
+                "file": "thesis/14.jpeg",
+                "isVid": false
+            },
+            {
+                "file": "thesis/15.jpeg",
+                "isVid": false
+            },
+            {
+                "file": "thesis/16.jpeg",
+                "isVid": false
+            },
+            {
+                "file": "thesis/17.jpeg",
+                "isVid": false
+            },
+            {
+                "file": "thesis/18.webp",
+                "isVid": false
+            },
+            {
+                "file": "thesis/19.jpeg",
+                "isVid": false
+            },
+            {
+                "file": "thesis/20.jpeg",
+                "isVid": false
+            },
+            {
+                "file": "thesis/21.jpeg",
+                "isVid": false
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "AlbumTitle": "DICT Dump",
+        "PostCaption": "Treacherous",
+        "Files": [
+            {
+                "file": "dict/0.jpeg",
+                "isVid": false
+            },
+            {
+                "file": "dict/1.jpg",
+                "isVid": false
+            },
+            {
+                "file": "dict/2.jpg",
+                "isVid": false
+            },
+            {
+                "file": "dict/3.jpg",
+                "isVid": false
+            },
+            {
+                "file": "dict/4.jpg",
+                "isVid": false
+            },
+            {
+                "file": "dict/5.jpg",
+                "isVid": false
+            },
+            {
+                "file": "dict/6.jpg",
+                "isVid": false
+            },
+            {
+                "file": "dict/7.jpg",
+                "isVid": false
+            },
+            {
+                "file": "dict/8.jpg",
+                "isVid": false
+            },
+            {
+                "file": "dict/9.jpg",
+                "isVid": false
+            },
+            {
+                "file": "dict/10.jpeg",
+                "isVid": false
+            },
+            {
+                "file": "dict/11.jpeg",
+                "isVid": false
+            },
+            {
+                "file": "dict/12.jpeg",
+                "isVid": false
+            },
+            {
+                "file": "dict/13.jpg",
+                "isVid": false
+            },
+            {
+                "file": "dict/14.jpg",
+                "isVid": false
+            },
+            {
+                "file": "dict/15.jpg",
+                "isVid": false
+            },
+            {
+                "file": "dict/16.jpg",
+                "isVid": false
+            },
+            {
+                "file": "dict/17.jpg",
+                "isVid": false
+            },
+            {
+                "file": "dict/18.jpg",
+                "isVid": false
+            },
+            {
+                "file": "dict/19.jpg",
+                "isVid": false
+            },
+            {
+                "file": "dict/20.jpg",
+                "isVid": false
+            },
+            {
+                "file": "dict/21.jpg",
+                "isVid": false
+            },
+            {
+                "file": "dict/22.jpg",
+                "isVid": false
+            },
+            {
+                "file": "dict/23.jpg",
+                "isVid": false
+            }
+        ]
+    }
+]
