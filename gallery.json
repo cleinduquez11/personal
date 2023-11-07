@@ -1,81 +1,73 @@
-
-    [
-    {
-      "id": 0,
-      "AlbumTitle": "Thesis Dump",
-      "PostCaption": "Final Defense Done!",
-      "Image": [
-                "thesis/thesis.jpg",
-                "thesis/1.jpeg",
-                "thesis/2.jpeg",
-                "thesis/3.jpeg",
-                "thesis/4.jpeg",
-                "thesis/5.jpeg",
-                "thesis/6.jpeg",
-                "thesis/7.jpeg",
-                "thesis/9.jpeg",
-                "thesis/10.jpeg",
-                "thesis/11.jpeg",
-                "thesis/12.jpeg",
-                "thesis/13.jpeg",
-                "thesis/14.jpeg",
-                "thesis/15.jpeg",
-                "thesis/16.jpeg",
-                "thesis/17.jpeg",
-                "thesis/18.webp",
-                "thesis/19.jpeg",
-                "thesis/20.jpeg",
-                "thesis/21.jpeg"
-                
-                ]
-    },
-    {
-      "id": 1,
-      "AlbumTitle": "DICT Dump",
-      "PostCaption": "",
-      "Image": [
-                "dict/0.jpeg",
-                "dict/1.jpg",
-                "dict/2.jpg",
-                "dict/3.jpg",
-                "dict/4.jpg",
-                "dict/5.jpg",
-                "dict/6.jpg",
-                "dict/7.jpg",
-                "dict/8.jpg",
-                "dict/9.jpg",
-                "dict/10.jpeg",
-                "dict/11.jpeg",
-                "dict/12.jpeg",
-                "dict/13.jpg",
-                "dict/14.jpg",
-                "dict/15.jpg",
-                "dict/16.jpg",
-                "dict/17.jpg",
-                "dict/18.jpg",
-                "dict/19.jpg",
-                "dict/20.jpg",
-                "dict/21.jpg",
-                "dict/22.jpg",
-                "dict/23.jpg"
-  ]
-},
-      {
-       "id":2,
-       "AlbumTitle": "Flex Dump",
-      "PostCaption": "Eh bakit ba",
-      "Image": [
-                "sissy/charme.jpg",
-                "sissy/charme.jpg",
-                "sissy/charme.jpg",
-                "sissy/charme.jpg",
-                "sissy/charme.jpg"
-                
-                
-       ] 
-      }
-    
-  
-  ]
-
-
+[
+  {
+    "id": 0,
+    "AlbumTitle": "Thesis Dump",
+    "PostCaption": "Final Defense Done!",
+    "Image": [
+      "thesis/thesis.jpg",
+      "thesis/1.jpeg",
+      "thesis/2.jpeg",
+      "thesis/3.jpeg",
+      "thesis/4.jpeg",
+      "thesis/5.jpeg",
+      "thesis/6.jpeg",
+      "thesis/7.jpeg",
+      "thesis/9.jpeg",
+      "thesis/10.jpeg",
+      "thesis/11.jpeg",
+      "thesis/12.jpeg",
+      "thesis/13.jpeg",
+      "thesis/14.jpeg",
+      "thesis/15.jpeg",
+      "thesis/16.jpeg",
+      "thesis/17.jpeg",
+      "thesis/18.webp",
+      "thesis/19.jpeg",
+      "thesis/20.jpeg",
+      "thesis/21.jpeg"
+    ]
+  },
+  {
+    "id": 1,
+    "AlbumTitle": "DICT Dump",
+    "PostCaption": "",
+    "Image": [
+      "dict/0.jpeg",
+      "dict/1.jpg",
+      "dict/2.jpg",
+      "dict/3.jpg",
+      "dict/4.jpg",
+      "dict/5.jpg",
+      "dict/6.jpg",
+      "dict/7.jpg",
+      "dict/8.jpg",
+      "dict/9.jpg",
+      "dict/10.jpeg",
+      "dict/11.jpeg",
+      "dict/12.jpeg",
+      "dict/13.jpg",
+      "dict/14.jpg",
+      "dict/15.jpg",
+      "dict/16.jpg",
+      "dict/17.jpg",
+      "dict/18.jpg",
+      "dict/19.jpg",
+      "dict/20.jpg",
+      "dict/21.jpg",
+      "dict/22.jpg",
+      "dict/23.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "AlbumTitle": "Flex Dump",
+    "PostCaption": "Eh bakit ba",
+    "Image": [
+      "sissy/charme.jpg",
+      "sissy/charme.jpg",
+      "sissy/charme.jpg",
+      "sissy/charme.jpg",
+      "sissy/charme.jpg"
+    ]
+  }
+]
