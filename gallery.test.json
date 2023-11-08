@@ -9,6 +9,7 @@
                 "isVid": false
             },
             {
+                "thumbnail": "thesis/thesis.jpg",
                 "file": "ens.mp4",
                 "isVid": true
             },
