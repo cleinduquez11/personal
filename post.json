@@ -1,15 +1,15 @@
 [
   {
+    "id": 1,
+    "Caption": "DICT Flag Ceremony",
+    "Img": "dict/white.jpg",
+    "isVid": false
+  },
+  {
     "id": 0,
     "Caption": "Thesis of the Century",
     "VidUrl": "ens.mp4",
     "isVid": true,
     "thumbnail": "thesis.jpg"
-  },
-  {
-    "id": 1,
-    "Caption": "Picture taking",
-    "Img": "dict/white.jpg",
-    "isVid": false
   }
 ]
