@@ -9,6 +9,11 @@
                 "isVid": false
             },
             {
+                "thumbnail": "thesis/thesis.jpg",
+                "file": "ens.mp4",
+                "isVid": true
+            },
+            {
                 "file": "thesis/1.jpeg",
                 "isVid": false
             },
@@ -95,6 +100,10 @@
         "AlbumTitle": "DICT Dump",
         "PostCaption": "Treacherous",
         "Files": [
+            {
+                "file": "dict/white.jpg",
+                "isVid": false
+            },
             {
                 "file": "dict/0.jpeg",
                 "isVid": false
@@ -185,10 +194,6 @@
             },
             {
                 "file": "dict/22.jpg",
-                "isVid": false
-            },
-            {
-                "file": "dict/23.jpg",
                 "isVid": false
             }
         ]
