@@ -1,4 +1,11 @@
 [
+    {
+    "id": 2,
+    "Caption": "Merry christmas DICT",
+    "VidUrl": "xxmass.mp4",
+    "isVid": true,
+    "thumbnail": "xmass.jpg"
+  },
   {
     "id": 1,
     "Caption": "DICT Flag Ceremony",
